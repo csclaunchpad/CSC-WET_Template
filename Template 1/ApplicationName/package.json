@@ -1,0 +1,19 @@
+{
+    "name": "YOUR APP NAME HERE",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "TBD",
+    "contributors": [],
+    "dependencies": {
+        "@angular/common": "^5.2.10",
+        "@angular/core": "^5.2.10",
+        "@angular/platform-browser": "^5.2.10",
+        "@angular/router": "^5.2.10"
+    }
+}
